@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Smile Dental Chicago",
+    "category": "Dentist",
+    "rating": 4.6,
+    "review_count": 132,
+    "phone": "(312) 555-1212",
+    "website": "https://smiledental.example",
+    "city": "Chicago",
+    "state": "IL",
+    "email": "hello@smiledental.example"
+  },
+  {
+    "name": "Northside Family Clinic",
+    "category": "Clinic",
+    "rating": 4.2,
+    "review_count": 48,
+    "phone": "(312) 555-3434",
+    "website": null,
+    "city": "Chicago",
+    "state": "IL"
+  }
+]

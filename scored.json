@@ -1,0 +1,68 @@
+[
+  {
+    "name": "Smile Dental Chicago",
+    "category": "Dentist",
+    "rating": 4.6,
+    "review_count": 132,
+    "phone": "(312) 555-1212",
+    "website": "https://smiledental.example",
+    "email": "hello@smiledental.example",
+    "city": "Chicago",
+    "state": "IL",
+    "source": "mock",
+    "place_id": null,
+    "raw": null,
+    "phone_e164": "+13125551212",
+    "website_valid": true,
+    "category_norm": null,
+    "dedupe_key": "7c1283884afb924a",
+    "score": 6,
+    "label": "HOT",
+    "score_breakdown": {
+      "has_website": 1,
+      "has_email": 2,
+      "rating_gt_4": 1,
+      "reviews_gt_50": 1,
+      "has_phone": 1
+    },
+    "reasons": [
+      "Has website",
+      "Has email",
+      "Rating > 4",
+      "Reviews > 50",
+      "Has phone"
+    ],
+    "biz_type": "B2C",
+    "biz_size": "SMALL"
+  },
+  {
+    "name": "Northside Family Clinic",
+    "category": "Clinic",
+    "rating": 4.2,
+    "review_count": 48,
+    "phone": "(312) 555-3434",
+    "website": null,
+    "email": null,
+    "city": "Chicago",
+    "state": "IL",
+    "source": "mock",
+    "place_id": null,
+    "raw": null,
+    "phone_e164": "+13125553434",
+    "website_valid": false,
+    "category_norm": null,
+    "dedupe_key": "fa611832bc097ed1",
+    "score": 2,
+    "label": "COLD",
+    "score_breakdown": {
+      "rating_gt_4": 1,
+      "has_phone": 1
+    },
+    "reasons": [
+      "Rating > 4",
+      "Has phone"
+    ],
+    "biz_type": "B2C",
+    "biz_size": "SMALL"
+  }
+]
