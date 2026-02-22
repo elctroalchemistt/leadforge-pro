@@ -216,5 +216,8 @@ SaaS development
 Automation scripts
 
 Data scraping solutions
+## 📸 Demo
+
+![Kanban View](docs/photo.png)
 
 📩 Available for freelance projects.# leadforge-pro
