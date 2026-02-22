@@ -218,6 +218,6 @@ Automation scripts
 Data scraping solutions
 ## 📸 Demo
 
-![Kanban View](docs/photo.png)
+![Kanban View](docs/kanban.png)
 
 📩 Available for freelance projects.# leadforge-pro
