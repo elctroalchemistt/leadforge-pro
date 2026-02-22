@@ -9,3 +9,9 @@ reports/
 dist/
 build/
 *.egg-info/
+leads*.json
+leads*.csv
+scored.json
+leadforge.db
+!docs/
+!docs/**
